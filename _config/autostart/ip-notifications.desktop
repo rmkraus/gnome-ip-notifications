@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IP Notifications
+GenericName=IP Notifications
+Comment=Raises notifications for IP changes
+Exec=/home/rkraus/bin/gnome-ip-notifications.py
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
